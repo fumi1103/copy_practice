@@ -4,6 +4,10 @@ body{
     margin: 0;
     color: black;
 }
+p,h1,h2{
+    text-align: center;
+    margin:0;
+}
 .txtl{
     font-size:28px;
     font-weight:600px;
@@ -87,6 +91,20 @@ header{
     background-color: #EBB94D;
     color: white;
     height: 600px;
+    
+}
+
+.ask .txtm{
+    padding-top: 40px;
+}
+.ask-point{
+    background: #F9F2F4;
+    border-radius: 3px;
+    color: #C7254E;
+    width: 420px;
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom: 50px;
     
 }
 .btn2{
