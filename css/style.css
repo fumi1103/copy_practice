@@ -35,10 +35,12 @@ header{
     background-color: white;
     padding: 15px 50px;
 }
+/*
 .divider{
-  height: 1000px;
-/*    background-color:grey;*/
+  height: 500px;
+    background-color:#EBB94D;
 }
+*/
 
 .btn{
     width: 318px;
@@ -71,4 +73,42 @@ header{
     height: 500px;
     text-align: center;
     
+}
+.isaratop h1{
+    padding-top: 80px;
+    line-height: 50px;
+}
+
+.isaratop p{
+    font-weight: 600;
+    margin-top: 30px;
+}
+.ask{
+    background-color: #EBB94D;
+    color: white;
+    height: 600px;
+    
+}
+.btn2{
+    width: 318px;
+    height: 44px;
+    border: 1px #D86C67;
+    background-color: #D86C67;
+    border-radius: 25px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 70px;
+}
+
+.btn2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    display: block;
+    height:100%;
+    padding-top: 10px;
+}
+
+.btn2:hover{
+    background-color: crimson;
 }
